@@ -1,8 +1,10 @@
 https://www.npmjs.com/package/apigeecli
 
+https://github.com/apigee/apigeelint
+
 https://docs.apigee.com/api-platform/antipatterns/intro
 
-https://github.com/apigee/apigeelint
+
 
 
 
