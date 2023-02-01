@@ -11,10 +11,3 @@ POC do lint do apigee nas pipelines do CI;
 Fazer em caráter de teste com o time de integração;
 
 Criar um stage apartado, sem bloqueios;
-
----
-### Iniciando container
-
-    docker run -it --name poc-apigee debian:10 /bin/bash
-    docker run -it debian:10 /bin/bash
-
