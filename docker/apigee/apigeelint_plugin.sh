@@ -1,0 +1,1 @@
+apigeelint -x ./apigeelint-plugins -f table.js -s apigeelint/test/fixtures/resources/sampleProxy/24Solver/apiproxy/
