@@ -2,8 +2,6 @@
 
 POC do lint do apigee nas pipelines do CI;
 
-Fazer em caráter de teste com o time de integração;
-
 Criar um stage apartado, sem bloqueios;
 
 ---
