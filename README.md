@@ -32,5 +32,5 @@ https://eduandrade.hashnode.dev/how-to-develop-external-plugins-for-apigeelint
 ---
 ### Exemplo do teste do plugin apigeelint:
 
-![alt text](poc-apigee/image/apigeelint.png)
+![alt text](https://github.com/faustosm/poc-apigee/blob/main/image/apigeelint.png)
 
