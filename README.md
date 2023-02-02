@@ -21,13 +21,13 @@ https://docs.apigee.com/api-platform/antipatterns/intro
 https://eduandrade.hashnode.dev/how-to-develop-external-plugins-for-apigeelint
 
 ---
-### Imagem já personalizada pronta pra testar o apigeelint
+### Imagem já personalizada, pronta pra testar o apigeelint
 
     docker pull faustosm/poc-apigeelint:1.0
 
     docker run -it faustosm/poc-apigeelint:1.0 bash
 
-### Depois entrar no container, basta rodar o script abaixo para realizar o test
+### Depois que entrar no container, basta rodar o script abaixo para realizar o test do plugin apigeelint
 
     ./apigeelint_plugin.sh
 
